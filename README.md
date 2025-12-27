@@ -1,169 +1,27 @@
-<h1 align="center">Hi, I'm Vrishti Kumari</h1>
+# 💫 About Me:
+<h1 align="center">Hi, I'm Vrishti Kumari</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Backend+%7C+Full-Stack;Building+Scalable+AI-First+Systems;Engineer+%7C+Leader+%7C+Open-Source+Contributor" /><br></p><br><br>---<br><br>## Professional Summary<br><br>Pre-final year **B.Tech Computer Science Engineering (2023–2027)** student specializing in **AI/ML systems, backend engineering, and scalable full-stack applications**.<br><br>I focus on building **machine learning–powered systems**, **LLM-based applications**, and **production-grade backend architectures** that move seamlessly from **data → model → API → product**. My work emphasizes **scalability, reliability, and real-world impact**, combining strong engineering fundamentals with applied AI.<br><br>---<br><br>## Technical Focus Areas<br><br>### AI / Machine Learning<br>- Supervised & unsupervised learning fundamentals<br>- Feature engineering & data preprocessing<br>- Model evaluation & performance optimization<br>- ML pipelines & inference-ready model integration<br><br>### AI & Intelligent Systems<br>- Document Intelligence: OCR, NLP, RAG pipelines<br>- LLM-powered applications, prompt orchestration & inference workflows<br>- AI automation & workflow optimization<br>- Semantic search, summarization & data extraction<br><br>### Backend Engineering<br>- RESTful & async APIs using **FastAPI** and **Flask**<br>- Authentication, authorization & role-based access control (RBAC)<br>- Data modeling with **MongoDB** and **Firebase**<br>- Error-resilient, scalable service architecture<br><br>### Full-Stack Development<br>- Frontend systems using **React** & **Tailwind CSS**<br>- API-driven UI architectures<br>- Cloud-ready, deployment-friendly applications<br>- Performance-focused design patterns<br><br>---<br><br>## Professional Experience<br><br>### Extern — AI-Powered Document Intelligence  <br>**Extern × Outamation**<br>- Designed and implemented document understanding pipelines<br>- Built OCR + NLP workflows for unstructured documents<br>- Developed RAG-based ML systems for semantic document querying<br>- Improved automation accuracy and processing efficiency<br><br>### Python Developer Intern  <br>**The Developers Arena**<br>- Developed backend APIs and automation scripts<br>- Implemented robust data processing & validation logic<br>- Applied clean code practices, exception handling & debugging<br>- Worked under real-world production constraints and timelines<br><br>---<br><br>## Leadership & Community Impact<br><br>### President — Entrepreneurship Cell (E-Cell), VGI<br>- Leading entrepreneurship, innovation & startup culture initiatives<br>- Organized hackathons, workshops, and speaker sessions<br>- Mentored students on product thinking and technical execution<br>- Bridged academia with startup and industry ecosystems<br><br>### Open-Source Contributor & Mentor<br>Active contributor and mentor across:<br>- **SWOC**<br>- **SSOC**<br>- **GSSoC ’25**<br>- **Next Bench**<br><br>Mentoring focus:<br>- Open-source workflows & collaboration<br>- Real-world contribution practices<br>- Developing engineering mindset beyond tutorials<br><br>---<br><br>## What I Build<br>- AI-powered automation tools<br>- LLM-based assistants & document intelligence systems<br>- Backend platforms with real-world use cases<br>- Full-stack applications with scalable architecture<br>- Community-driven, impact-focused tech products<br><br>---<br><br>## Current Professional Goals<br>- Architect scalable AI-first products<br>- Deepen expertise in backend & system design<br>- Ship production-ready open-source solutions<br>- Grow as a technology leader and innovator<br><br>---<br><br>## Tech Stack<br><br>### Languages<br>C · C++ · Python · JavaScript<br><br>### Backend & APIs<br>FastAPI · Flask · Django · Firebase · MongoDB<br><br>### Frontend<br>React · Tailwind CSS · Angular · HTML · CSS<br><br>### AI / ML & Data<br>NumPy · Pandas · Matplotlib · Scikit-learn · LLM APIs · Streamlit<br><br>### Cloud & DevOps<br>AWS · Azure · Cloudflare<br><br>### Design & Media<br>Figma · Canva · Adobe Suite<br><br>---<br><br>## GitHub Analytics<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Vrishti-vibes&theme=tokyonight&show_icons=true&hide_border=true" height="180"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishti-vibes&theme=tokyonight&layout=compact&hide_border=true" height="180"/><br></p><br><br><p align="center"><br>  <img src="https://nirzak-streak-stats.vercel.app/?user=Vrishti-vibes&theme=tokyonight&hide_border=true"/><br></p><br><br>---<br><br>## GitHub Achievements<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=Vrishti-vibes&theme=radical&margin-w=10"/><br></p><br><br>---<br><br>## Connect With Me<br><br><p align="center"><br>  <a href="https://linkedin.com/in/vrishti-kumari-3755a5299"><br>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br>  </a><br>  <a href="https://instagram.com/Vrishti_vibes"><br>    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><br>  </a><br>  <a href="mailto:vrishtikumari80@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br>  </a><br></p><br><br>---<br><br>## Engineering Philosophy<br><br><p align="center"><br>  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/><br></p><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=Vrishti-vibes&label=Profile+Views&color=BB86FC"/><br></p><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Backend+%7C+Full-Stack;Building+Scalable+AI-First+Systems;Engineer+%7C+Leader+%7C+Open-Source+Contributor" />
-</p>
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Vrishti-vibes) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/celestial__vibes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vrishti_vibes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vrishti-kumari-3755a5299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrishtikumari80@gmail.com) 
 
-## Professional Summary
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vrishti-vibes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vrishti-vibes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishti-vibes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Pre-final year **B.Tech Computer Science Engineering (2023–2027)** student specializing in **AI/ML systems, backend engineering, and scalable full-stack applications**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vrishti-vibes&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-I focus on building **machine learning–powered systems**, **LLM-based applications**, and **production-grade backend architectures** that move seamlessly from **data → model → API → product**. My work emphasizes **scalability, reliability, and real-world impact**, combining strong engineering fundamentals with applied AI.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## Technical Focus Areas
-
-### AI / Machine Learning
-- Supervised & unsupervised learning fundamentals
-- Feature engineering & data preprocessing
-- Model evaluation & performance optimization
-- ML pipelines & inference-ready model integration
-
-### AI & Intelligent Systems
-- Document Intelligence: OCR, NLP, RAG pipelines
-- LLM-powered applications, prompt orchestration & inference workflows
-- AI automation & workflow optimization
-- Semantic search, summarization & data extraction
-
-### Backend Engineering
-- RESTful & async APIs using **FastAPI** and **Flask**
-- Authentication, authorization & role-based access control (RBAC)
-- Data modeling with **MongoDB** and **Firebase**
-- Error-resilient, scalable service architecture
-
-### Full-Stack Development
-- Frontend systems using **React** & **Tailwind CSS**
-- API-driven UI architectures
-- Cloud-ready, deployment-friendly applications
-- Performance-focused design patterns
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vrishti-vibes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vrishti-vibes&icon=8&color=3)](https://visitcount.itsvg.in)
 
-## Professional Experience
-
-### Extern — AI-Powered Document Intelligence  
-**Extern × Outamation**
-- Designed and implemented document understanding pipelines
-- Built OCR + NLP workflows for unstructured documents
-- Developed RAG-based ML systems for semantic document querying
-- Improved automation accuracy and processing efficiency
-
-### Python Developer Intern  
-**The Developers Arena**
-- Developed backend APIs and automation scripts
-- Implemented robust data processing & validation logic
-- Applied clean code practices, exception handling & debugging
-- Worked under real-world production constraints and timelines
-
----
-
-## Leadership & Community Impact
-
-### President — Entrepreneurship Cell (E-Cell), VGI
-- Leading entrepreneurship, innovation & startup culture initiatives
-- Organized hackathons, workshops, and speaker sessions
-- Mentored students on product thinking and technical execution
-- Bridged academia with startup and industry ecosystems
-
-### Open-Source Contributor & Mentor
-Active contributor and mentor across:
-- **SWOC**
-- **SSOC**
-- **GSSoC ’25**
-- **Next Bench**
-
-Mentoring focus:
-- Open-source workflows & collaboration
-- Real-world contribution practices
-- Developing engineering mindset beyond tutorials
-
----
-
-## What I Build
-- AI-powered automation tools
-- LLM-based assistants & document intelligence systems
-- Backend platforms with real-world use cases
-- Full-stack applications with scalable architecture
-- Community-driven, impact-focused tech products
-
----
-
-## Current Professional Goals
-- Architect scalable AI-first products
-- Deepen expertise in backend & system design
-- Ship production-ready open-source solutions
-- Grow as a technology leader and innovator
-
----
-
-## Tech Stack
-
-### Languages
-C · C++ · Python · JavaScript
-
-### Backend & APIs
-FastAPI · Flask · Django · Firebase · MongoDB
-
-### Frontend
-React · Tailwind CSS · Angular · HTML · CSS
-
-### AI / ML & Data
-NumPy · Pandas · Matplotlib · Scikit-learn · LLM APIs · Streamlit
-
-### Cloud & DevOps
-AWS · Azure · Cloudflare
-
-### Design & Media
-Figma · Canva · Adobe Suite
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vrishti-vibes&theme=tokyonight&show_icons=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishti-vibes&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vrishti-vibes&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vrishti-vibes&theme=radical&margin-w=10"/>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vrishti-kumari-3755a5299">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/Vrishti_vibes">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:vrishtikumari80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Engineering Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vrishti-vibes&label=Profile+Views&color=BB86FC"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
